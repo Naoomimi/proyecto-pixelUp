@@ -1,0 +1,12 @@
+config/*
+cache/*
+media/*
+
+db_data/
+
+wp-site/
+wordpress/
+wp-content/
+
+*.log
+*.tmp
